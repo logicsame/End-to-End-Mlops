@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps-Project/End-to-End-Mlops/mlruns/0/6df03a1dba2543cfb4da02a675ea53d9/artifacts
+end_time: 1721852671627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6df03a1dba2543cfb4da02a675ea53d9
+run_name: merciful-crab-259
+run_uuid: 6df03a1dba2543cfb4da02a675ea53d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721852666699
+status: 3
+tags: []
+user_id: User

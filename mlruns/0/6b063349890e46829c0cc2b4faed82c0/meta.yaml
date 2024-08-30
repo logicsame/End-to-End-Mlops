@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps-Project/End-to-End-Mlops/mlruns/0/6b063349890e46829c0cc2b4faed82c0/artifacts
+end_time: 1721853451636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b063349890e46829c0cc2b4faed82c0
+run_name: whimsical-mare-107
+run_uuid: 6b063349890e46829c0cc2b4faed82c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721853446956
+status: 3
+tags: []
+user_id: User

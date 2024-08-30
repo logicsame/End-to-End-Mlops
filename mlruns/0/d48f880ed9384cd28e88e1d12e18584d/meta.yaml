@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps-Project/End-to-End-Mlops/mlruns/0/d48f880ed9384cd28e88e1d12e18584d/artifacts
+end_time: 1721889392046
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d48f880ed9384cd28e88e1d12e18584d
+run_name: chill-shark-942
+run_uuid: d48f880ed9384cd28e88e1d12e18584d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721889381570
+status: 3
+tags: []
+user_id: User

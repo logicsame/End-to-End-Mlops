@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps-Project/End-to-End-Mlops/mlruns/0/c5956e79e10f4816aa041ea3c12e34b9/artifacts
+end_time: 1721853719883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5956e79e10f4816aa041ea3c12e34b9
+run_name: enthused-calf-775
+run_uuid: c5956e79e10f4816aa041ea3c12e34b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721853715112
+status: 3
+tags: []
+user_id: User
